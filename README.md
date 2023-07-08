@@ -12,7 +12,7 @@ MICROSOFT FUTURE READY TALENT PROJECT
 WEBSITE LINK:https://icy-ocean-016a40a10.3.azurestaticapps.net
 # Maximus Garage
 
-Welcome to Maximus Garage, your premier destination for luxurious cars like Rolls Royce, McLaren, Porsche, Mercedes, Ferrari, and more. This website showcases our exclusive collection of high-end vehicles and provides a seamless browsing and purchasing experience.
+Welcome to Maximus Garage, your premier destination for luxurious ELECTRIC cars from brands like Rolls Royce, McLaren, Porsche, Mercedes, Ferrari, and more. This website showcases our exclusive collection of high-end vehicles and provides a seamless browsing and purchasing experience.
 
 ## Deployment
 
