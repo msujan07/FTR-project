@@ -1,9 +1,14 @@
-<img width="935" alt="ss2" src="https://github.com/msujan07/FTR-project/assets/122961926/938a741e-695a-4a34-989c-0025592b873c">
-<img width="935" alt="ss2" src="https://github.com/msujan07/FTR-project/assets/122961926/9f97d2da-601c-473a-8842-55b3dc1a7711">
+
+##MICROSOFT FUTURE READY TALENT PROJECT
+<img width="959" alt="ss1" src="https://github.com/msujan07/FTR-project/assets/122961926/2b4f5d37-cfa3-44bd-bd57-89bdf4070bf4">
+
+<img width="935" alt="ss2" src="https://github.com/msujan07/FTR-project/assets/122961926/be4fab5f-f718-472d-aef6-42c16130a9bd">
 
 
 
-#MICROSOFT FUTURE READY TALENT PROJECT
+
+
+MICROSOFT FUTURE READY TALENT PROJECT
 WEBSITE LINK:https://icy-ocean-016a40a10.3.azurestaticapps.net
 # Maximus Garage
 
